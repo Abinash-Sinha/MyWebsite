@@ -23,7 +23,7 @@ const About = () => {
                     <Col xs={12} md={6}>
                         <Row className=" align-items-start p-2 my-details rounded">
                             Hi there! I am <strong>&nbsp;Abinash Sinha</strong>
-                            <br />A passionate programmer and a beer lover. I am a Python Developer with a passion for Computer Vision and Web Development.
+                            <br />I am a Python Developer with a passion for Computer Vision and Web Development.
                             <br />
                             I completed my Engineering with specialization in 'Computer Science and Engineering'.
                             <br />

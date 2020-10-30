@@ -6,6 +6,7 @@ import Slide2 from '../../assets/img/carousal/carousal3.webp'
 import Slide3 from '../../assets/img/carousal/carousal5.webp'
 import ScrollDown from '../scroll-down/scroll-down.component'
 
+
 const MyCarousal = () => {
     return (
       <div id="home">
@@ -14,7 +15,7 @@ const MyCarousal = () => {
             <img className="d-block w-100 custom-img" src={Slide2} alt="First slide" />
           </Carousel.Item>
           <Carousel.Item>
-            <img className="d-block w-100 custom-img" src={Slide3} alt="Third slide" />
+            <img className="d-block w-100 custom-img" src={Slide3} alt="Second slide" />
           </Carousel.Item>
           <Carousel.Item>
             <img className="d-block w-100 custom-img" src={Slide1} alt="Third slide" />

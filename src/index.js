@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { ThemeProvider } from "styled-components";
 import { theme } from "./themes/theme";
-
+debugger;
 ReactDOM.render(
   <ThemeProvider theme={theme}>
     <App />
