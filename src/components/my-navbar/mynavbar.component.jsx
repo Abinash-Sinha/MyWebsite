@@ -3,6 +3,7 @@ import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
 import Logo from '../../assets/icons/Logo5.webp'
 import './mynavbar.style.css'
+import Resume from "../../assets/documents/Resume.pdf"
 
 const MyNavbar = () => {
     return (
@@ -28,6 +29,7 @@ const MyNavbar = () => {
                 <Nav.Link href="#experience">Experience</Nav.Link>
                 <Nav.Link href="#projects">Projects</Nav.Link>
                 <Nav.Link href="#contact">Contact</Nav.Link>
+                <Nav.Link href={Resume}>My Resume</Nav.Link>
               </Nav>
             </Navbar.Collapse>
           </div>
