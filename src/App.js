@@ -14,7 +14,7 @@ import ContactForm from "./pages/contact-form/contact-form.component";
 import FooterPanel from "./components/footer/footer.component";
 import Particles from "react-particles-js";
 import { particlesOptions } from "./particlesOptions";
-
+// APP
 const App = () => {
 	return (
 		<div className="App" style={{ position: "relative" }}>
