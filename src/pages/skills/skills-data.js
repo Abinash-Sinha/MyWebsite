@@ -14,8 +14,11 @@ import L_MSSQL from "../../assets/img/skills/mssql.svg";
 import L_GIT from "../../assets/img/skills/git-icon.svg";
 import L_HEROKU from "../../assets/img/skills/heroku.svg";
 import L_DIGITAL_OCEAN from "../../assets/img/skills/digital-ocean.svg";
+import L_AWS from "../../assets/img/skills/AWS.svg";
 import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
 import L_PYTHON from "../../assets/img/skills/python.svg";
+import L_C from "../../assets/img/skills/C.svg";
+import L_CPP from "../../assets/img/skills/cpp.svg";
 
 export const skills = {
 	frontend: [
@@ -109,6 +112,12 @@ export const skills = {
 			imgSrc: L_DIGITAL_OCEAN,
 			skillName: "Digital Ocean",
 		},
+		{
+			link: "https://aws.amazon.com/",
+			imgAltText: "Amazon Web Services",
+			imgSrc: L_AWS,
+			skillName: "Amazon Web Services",
+		},
 	],
 	programmingLanguages: [
 		{
@@ -122,6 +131,18 @@ export const skills = {
 			imgAltText: "Python",
 			imgSrc: L_PYTHON,
 			skillName: "Python",
+		},
+		{
+			link: "https://www.iso.org/standard/74528.html",
+			imgAltText: "C",
+			imgSrc: L_C,
+			skillName: "C Programming Language",
+		},
+		{
+			link: "https://isocpp.org/",
+			imgAltText: "Cpp",
+			imgSrc: L_CPP,
+			skillName: "C++ Programming Language",
 		},
 	],
 	databases: [
