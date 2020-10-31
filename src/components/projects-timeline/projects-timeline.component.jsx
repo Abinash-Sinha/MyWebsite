@@ -127,22 +127,13 @@ const TimeLine = () => {
 								</Accordion>
 							</div>
 							<div className="d-flex justify-content-between flex-nowrap text-center">
-								<UrlButton
-									href="https://akjha96.github.io/Todo-List-React/"
-									target="_blank"
-								>
+								<UrlButton href="" target="_blank">
 									SEE LIVE
 								</UrlButton>
-								<UrlButton
-									href="https://github.com/akjha96/Todo-List-React"
-									target="_blank"
-								>
+								<UrlButton href="" target="_blank">
 									SOURCE CODE
 								</UrlButton>
-								<UrlButton
-									href="https://www.linkedin.com/posts/anand-kumar-jha-745798a4_react-materialui-fun-activity-6716765686963826688-GIpZ"
-									target="_blank"
-								>
+								<UrlButton href="" target="_blank">
 									WATCH VIDEO
 								</UrlButton>
 							</div>
@@ -262,16 +253,10 @@ const TimeLine = () => {
 								</Accordion>
 							</div>
 							<div className="d-flex justify-content-between flex-nowrap text-center">
-								<UrlButton
-									href="https://github.com/akjha96/MernTipCaculator-FrontEnd"
-									target="_blank"
-								>
+								<UrlButton href="" target="_blank">
 									SOURCE CODE
 								</UrlButton>
-								<UrlButton
-									href="https://www.linkedin.com/posts/anand-kumar-jha-745798a4_react-nodejs-expressjs-activity-6712281977107603456-oH6t"
-									target="_blank"
-								>
+								<UrlButton href="" target="_blank">
 									WATCH VIDEO
 								</UrlButton>
 							</div>
@@ -371,22 +356,13 @@ const TimeLine = () => {
 								</Accordion>
 							</div>
 							<div className="d-flex justify-content-between flex-nowrap text-center">
-								<UrlButton
-									href="https://akjha96.github.io/getGithubInfo/"
-									target="_blank"
-								>
+								<UrlButton href="" target="_blank">
 									SEE LIVE
 								</UrlButton>
-								<UrlButton
-									href="https://github.com/akjha96/getGithubInfo"
-									target="_blank"
-								>
+								<UrlButton href="" target="_blank">
 									SOURCE CODE
 								</UrlButton>
-								<UrlButton
-									href="https://www.youtube.com/watch?v=K3h95l2YxmY&feature=youtu.be"
-									target="_blank"
-								>
+								<UrlButton href="" target="_blank">
 									WATCH VIDEO
 								</UrlButton>
 							</div>
@@ -510,22 +486,13 @@ const TimeLine = () => {
 								</Accordion>
 							</div>
 							<div className="d-flex justify-content-between flex-nowrap text-center">
-								<UrlButton
-									href="https://smart-face-detect-app.herokuapp.com/"
-									target="_blank"
-								>
+								<UrlButton href="" target="_blank">
 									SEE LIVE
 								</UrlButton>
-								<UrlButton
-									href="https://github.com/akjha96/Smart_Brain"
-									target="_blank"
-								>
+								<UrlButton href="" target="_blank">
 									SOURCE CODE
 								</UrlButton>
-								<UrlButton
-									href="https://www.youtube.com/watch?v=ZZYSpi_blL0"
-									target="_blank"
-								>
+								<UrlButton href="" target="_blank">
 									WATCH VIDEO
 								</UrlButton>
 							</div>
@@ -643,16 +610,10 @@ const TimeLine = () => {
 								</Accordion>
 							</div>
 							<div className="d-flex justify-content-between flex-nowrap text-center">
-								<UrlButton
-									href="https://akjha96.github.io/RoboFriends/"
-									target="_blank"
-								>
+								<UrlButton href="" target="_blank">
 									SEE LIVE
 								</UrlButton>
-								<UrlButton
-									href="https://github.com/akjha96/RoboFriends"
-									target="_blank"
-								>
+								<UrlButton href="" target="_blank">
 									SOURCE CODE
 								</UrlButton>
 							</div>
@@ -780,10 +741,7 @@ const TimeLine = () => {
 								</Accordion>
 							</div>
 							<div className="d-flex justify-content-between flex-nowrap text-center">
-								<UrlButton
-									href="https://github.com/akjha96/product_hunt_clone"
-									target="_blank"
-								>
+								<UrlButton href="" target="_blank">
 									SOURCE CODE
 								</UrlButton>
 							</div>
@@ -934,10 +892,7 @@ const TimeLine = () => {
 								</Accordion>
 							</div>
 							<div className="d-flex justify-content-between flex-nowrap text-center">
-								<UrlButton
-									href="https://youtu.be/PCwEuW4OmWA"
-									target="_blank"
-								>
+								<UrlButton href="" target="_blank">
 									WATCH VIDEO
 								</UrlButton>
 							</div>
